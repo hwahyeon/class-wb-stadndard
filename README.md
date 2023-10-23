@@ -11,6 +11,9 @@
 ## 학습 목표
 - 실제 웹사이트 제작 배우기
 
+## 학습 결과
+[시작하기](https://hwahyeon.github.io/class-wb-stadndard)
+
 ## 학습 내용
 - 웹 표준을 준수하는 사이트 제작 기법
 - 웹 제작을 위한 Tools
