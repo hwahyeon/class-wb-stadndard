@@ -12,7 +12,7 @@ This repository contains the learning materials for "Creating a Web Standards Si
 Learn how to create an actual website with web standards
 
 ## Learning Outcomes
-[View the Result](https://hwahyeon.github.io/class-wb-stadndard)
+[View the Result](https://hwahyeon.github.io/web-stadndard-site/)
 
 ## Learning Content
 - Techniques for creating sites that comply with web standards
