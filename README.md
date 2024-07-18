@@ -1,25 +1,21 @@
-# 웹 표준 사이트 만들기(2019) 버전
+# Creating a Web Standards Site (2019 Version)
 
 `HTML` `CSS` `JavaScript` `jQuery`  
 
-## 개요
+## Overview
 
-이 저장소는 **웹 표준 사이트 만들기(2019) 버전**의 학습 내용이 정리되어 있습니다.
+This repository contains the learning materials for "Creating a Web Standards Site (2019 Version)".
 
-> 강사 : webstoryboy
+> Instructor: webstoryboy
 
-## 학습 목표
-- 실제 웹사이트 제작 배우기
+## Learning Objectives
+Learn how to create an actual website with web standards
 
-## 학습 결과
-[결과물 바로가기](https://hwahyeon.github.io/class-wb-stadndard)
+## Learning Outcomes
+[View the Result](https://hwahyeon.github.io/class-wb-stadndard)
 
-## 학습 내용
-- 웹 표준을 준수하는 사이트 제작 기법
-- 웹 제작을 위한 Tools
+## Learning Content
+- Techniques for creating sites that comply with web standards
+- Tools for web development
   - [`slick`](https://kenwheeler.github.io/slick/)
   - [`lightGallery`](https://www.lightgalleryjs.com/)
-
-
-## 참고 자료
-[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z)
